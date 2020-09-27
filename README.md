@@ -1,7 +1,7 @@
 # Distracted-Driver
 
 ## Introduction
-Distracted driving is a growing and serious threat to road safety. Distracted driving causes approximately 1.6 million fatal accidents each year. This project leverages deep learning in computer vision to visually monitor the behaviour and attention of drivers while driving and provide the driver with real-time feedback on their behaviour. The proposed model can precisely locate where and when the driver was distracted and provide statistical visualizations.
+Distracted driving is a growing and serious threat to road safety. Distracted driving causes approximately 1.6 million fatal accidents each year. This project leverages deep learning in computer vision to visually monitor the behaviour and attention of drivers while driving and provide the driver with real-time feedback on their behaviour. To account for real driving scnearios, we also train our model to detect on night vision images. The proposed model can precisely locate where and when the driver was distracted and provide statistical visualizations.
 
 Application of this product extends to the following domains in addition to general safety:
 1. The average consumer can use this product in their car to keep a check on their driving behaviour. Individual users can use this product to keep track of their behaviours and share with their family members and close friends.
