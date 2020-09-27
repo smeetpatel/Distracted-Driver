@@ -12,6 +12,11 @@ Application of this product extends to the following domains in addition to gene
 ![Talking](images/2.png)
 ![Texting](images/3.png)
 
+## Results on day-light images
+![drinking](images/6.jpeg)
+![Safe](images/7.jpeg)
+
+
 ## Technology and Dataset
 Distracted Driver detection using Keras, MTCNN, OpenCV and Flask.
 
