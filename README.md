@@ -8,6 +8,10 @@ Application of this product extends to the following domains in addition to gene
 2. Fleet management companies can use this product to assess and mitigate risk by monitoring the behaviours of their drivers. Distracted behaviours can lead to demerit points in the system and merit points for attentive driving.
 3. Insurance companies can provide dynamic insurance rates to fleet management and vehicle hire companies like (Lyft/Uber), drivers with positive driving scores will get discounted insurance rates. This will lead to an increase in driver accountability and passenger safety. This directly solves the root cause of the problem.
 
+## Results on night-vision images
+![Talking](images/2.png)
+![Texting](images/3.png)
+
 ## Technology and Dataset
 Distracted Driver detection using Keras, MTCNN, OpenCV and Flask.
 
