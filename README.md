@@ -31,7 +31,7 @@ Tools Used: Google Colab, Jupyter Notebook, Eclipse
 
 ## Workflow:
 
-1. Trained MobileNet model to recognize the distracted drivers.
+1. Trained MobileNet model to recognize the distracted drivers. The model was also trained on night vision images to account for real driving scenarios.
 
 2. Used MTCNN (Multi-task Cascade Convolutional Neural Network) to detect profile face of humans in an image.
 Reference : https://github.com/ipazc/mtcnn
