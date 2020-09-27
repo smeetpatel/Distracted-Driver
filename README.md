@@ -9,7 +9,7 @@ Application of this product extends to the following domains in addition to gene
 3. Insurance companies can provide dynamic insurance rates to fleet management and vehicle hire companies like (Lyft/Uber), drivers with positive driving scores will get discounted insurance rates. This will lead to an increase in driver accountability and passenger safety. This directly solves the root cause of the problem.
 
 ## Technology and Dataset
-Distracted Driver detection using Keras, MTCNN/DNN, OpenCV and Flask.
+Distracted Driver detection using Keras, MTCNN, OpenCV and Flask.
 
 The dataset used for this project was utilized from kaggle. You can find the original dataset available here : https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
